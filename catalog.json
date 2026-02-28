@@ -1,15 +1,32 @@
-{
-  "app": "File Manager+",
-  "packageName": "com.alphainventor.filemanager",
-  "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/alphainventor_filemanagerplus.apk",
-  "description": "Bug fixes and performance improvements.\n\n3.6.5 - Temporarily highlight new files with a dot after file operations.\n3.5.0 - Slideshow feature added.\n3.2.9 - Supports favorites order change and network storage order change.\n2.8.0 - Target Android 11. Requires 'All files access' permission on Android 11 or higher to read and write shared storage.",
-  "icon": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/alphainventor_filemanagerplus.png",
-  "isVerified": true,
-  "isFeatured": true,
-  "isSmall": false,
-  "hasPreview": false,
-  "previewLink": "",
-  "version": "3.6.8",
-  "minAndroid": 5,
-  "targetAndroid": 15
-}
+[
+  {
+    "app": "File Manager+",
+    "packageName": "com.alphainventor.filemanager",
+    "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/alphainventor_filemanagerplus.apk",
+    "description": "Bug fixes and performance improvements.\n\n3.6.5 - Temporarily highlight new files with a dot after file operations.\n3.5.0 - Slideshow feature added.\n3.2.9 - Supports favorites order change and network storage order change.\n2.8.0 - Target Android 11. Requires 'All files access' permission on Android 11 or higher to read and write shared storage.",
+    "icon": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/alphainventor_filemanagerplus.png",
+    "isVerified": true,
+    "isFeatured": true,
+    "isSmall": false,
+    "hasPreview": false,
+    "previewLink": "",
+    "version": "3.6.8",
+    "minAndroid": 5,
+    "targetAndroid": 15
+  },
+  {
+    "app": "Magisk",
+    "packageName": "com.topjohnwu.magisk",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
+    "description": "Magisk is a powerful systemless rooting solution for Android devices. It provides root access without modifying the system partition and supports modules for extending system functionality.",
+    "icon": "https://raw.githubusercontent.com/topjohnwu/Magisk/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "isVerified": true,
+    "isFeatured": true,
+    "isSmall": false,
+    "hasPreview": false,
+    "previewLink": "",
+    "version": "30.7",
+    "minAndroid": 6,
+    "targetAndroid": 15
+  }
+]
