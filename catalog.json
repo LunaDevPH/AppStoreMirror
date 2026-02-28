@@ -28,5 +28,20 @@
     "version": "30.7",
     "minAndroid": 6,
     "targetAndroid": 15
+  },
+  {
+    "app": "Facebook Lite",
+    "packageName": "com.facebook.lite",
+    "link": "https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.10537-6/643873524_880111124859988_5463774593653445615_n.apk/facebook_lite_v500.0.0.8.103.apk",
+    "description": "A faster Facebook experience for Android.\n\nDownload size: 3.33 MB.\nThis version of Facebook uses less data and works in all network conditions.\n\nFacebook Lite:\n- Small app size for faster installation and reduced storage usage.\n- Faster Facebook experience. Upload photos and see updates quickly.\n- Works on 2G networks and unstable connections.\n- Supports all Android phones.\n\nCompatibility: Android 2.3 or higher.\nLast Updated: February 27, 2026.\nLanguages: English (US), Filipino, Bisaya, Español, 日本語, 한국어, 中文(简体), العربية, Português (Brasil), Français (France), Deutsch.",
+    "icon": "https://scontent.fmnl13-2.fna.fbcdn.net/v/t39.8562-6/200269427_536014387447446_4317106942036650048_n.png",
+    "isVerified": true,
+    "isFeatured": false,
+    "isSmall": true,
+    "hasPreview": false,
+    "previewLink": "",
+    "version": "500.0.0.8.103",
+    "minAndroid": 2.3,
+    "targetAndroid": 15
   }
 ]
