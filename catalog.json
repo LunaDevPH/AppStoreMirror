@@ -50,7 +50,7 @@
   {
     "app": "LMS Versa",
     "creator": "Mohammed Refat",
-    "packageName": "❓❓",
+    "packageName": "app.lmsversa.android",
     "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/ams_android_509517_live.apk",
     "description": "This app is made by my friend",
     "icon": "❓",
@@ -59,7 +59,7 @@
     "isSmall": false,
     "hasPreview": false,
     "previewLink": "",
-    "version": "❓",
+    "version": "1.01",
     "minAndroid": 5,
     "targetAndroid": 15
   }
