@@ -1,0 +1,5 @@
+{
+  "app": "My Awesome App",
+  "packageName": "com.awesome.app",
+  "link": "https://example.com/path/to/app.apk"
+}
