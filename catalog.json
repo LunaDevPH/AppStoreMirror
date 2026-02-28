@@ -46,6 +46,21 @@
     "version": "500.0.0.8.103",
     "minAndroid": 2.3,
     "targetAndroid": 15
+  },
+  {
+    "app": "LMS Versa",
+    "creator": "Mohammed Refat",
+    "packageName": "❓❓",
+    "link": "❓",
+    "description": "This app is made by my friend",
+    "icon": "❓",
+    "isVerified": true,
+    "isFeatured": true,
+    "isSmall": false,
+    "hasPreview": false,
+    "previewLink": "",
+    "version": "❓",
+    "minAndroid": 5,
+    "targetAndroid": 15
   }
 ]
-
