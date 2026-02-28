@@ -19,7 +19,7 @@
     "packageName": "com.topjohnwu.magisk",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
     "description": "Magisk is a powerful systemless rooting solution for Android devices. It provides root access without modifying the system partition and supports modules for extending system functionality.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png",
+    "icon": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/topjohnwo_magisk.png",
     "isVerified": true,
     "isFeatured": true,
     "isSmall": false,
