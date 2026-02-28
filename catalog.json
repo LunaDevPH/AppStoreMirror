@@ -1,6 +1,7 @@
 [
   {
     "app": "File Manager+",
+    "creator": "Alphainventor",
     "packageName": "com.alphainventor.filemanager",
     "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/alphainventor_filemanagerplus.apk",
     "description": "Bug fixes and performance improvements.\n\n3.6.5 - Temporarily highlight new files with a dot after file operations.\n3.5.0 - Slideshow feature added.\n3.2.9 - Supports favorites order change and network storage order change.\n2.8.0 - Target Android 11. Requires 'All files access' permission on Android 11 or higher to read and write shared storage.",
@@ -16,6 +17,7 @@
   },
   {
     "app": "Magisk",
+    "creator": "topjohnwu",
     "packageName": "com.topjohnwu.magisk",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v30.7/Magisk-v30.7.apk",
     "description": "Magisk is a powerful systemless rooting solution for Android devices. It provides root access without modifying the system partition and supports modules for extending system functionality.",
@@ -31,10 +33,11 @@
   },
   {
     "app": "Facebook Lite",
+    "creator": "Meta",
     "packageName": "com.facebook.lite",
-    "link": "https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.10537-6/643873524_880111124859988_5463774593653445615_n.apk/facebook_lite_v500.0.0.8.103.apk",
+    "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/meta_facebooklite.apk",
     "description": "A faster Facebook experience for Android.\n\nDownload size: 3.33 MB.\nThis version of Facebook uses less data and works in all network conditions.\n\nFacebook Lite:\n- Small app size for faster installation and reduced storage usage.\n- Faster Facebook experience. Upload photos and see updates quickly.\n- Works on 2G networks and unstable connections.\n- Supports all Android phones.\n\nCompatibility: Android 2.3 or higher.\nLast Updated: February 27, 2026.\nLanguages: English (US), Filipino, Bisaya, Español, 日本語, 한국어, 中文(简体), العربية, Português (Brasil), Français (France), Deutsch.",
-    "icon": "https://scontent.fmnl13-2.fna.fbcdn.net/v/t39.8562-6/200269427_536014387447446_4317106942036650048_n.png",
+    "icon": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/meta_facebooklite.png",
     "isVerified": true,
     "isFeatured": false,
     "isSmall": true,
