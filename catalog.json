@@ -53,14 +53,14 @@
     "packageName": "app.lmsversa.android",
     "link": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/ams_android_509517_live.apk",
     "description": "This app is made by my friend",
-    "icon": "❓",
+    "icon": "https://raw.githubusercontent.com/LunaDevPH/AppStoreMirror/main/app.lmsversa.android_1.0.1_2_icon.png",
     "isVerified": true,
     "isFeatured": true,
     "isSmall": false,
     "hasPreview": false,
     "previewLink": "",
     "version": "1.01",
-    "minAndroid": 5,
-    "targetAndroid": 15
+    "minAndroid": 8,
+    "targetAndroid": 14
   }
 ]
