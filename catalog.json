@@ -10,6 +10,7 @@
   "hasPreview": false,
   "previewLink": "",
   "version": "3.6.8",
-  "minAndroid": 21,
-  "targetAndroid": 35
+  "minAndroid": 5,
+  "targetAndroid": 15
 }
+
