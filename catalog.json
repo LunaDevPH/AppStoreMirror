@@ -1,5 +1,6 @@
 {
-  "app": "My Awesome App",
-  "packageName": "com.awesome.app",
-  "link": "https://example.com/path/to/app.apk"
+  "app": "File Manager+",
+  "packageName": "com.alphainventor.filemanager",
+  "link": "https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2026/02/50/6995d00f2063f/com.alphainventor.filemanager_3.6.8-2103068_minAPI21%28nodpi%29_apkmirror.com.apk?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20260228%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260228T042452Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=7a7facbcf02534fbe8aec884bc35b03c1909744fa46f62e766bc589a610f7463"
+
 }
