@@ -62,5 +62,21 @@
     "version": "1.01",
     "minAndroid": 8,
     "targetAndroid": 14
+  },
+  {
+    "app": "Telegram",
+    "creator": "Telegram FZ-LLC",
+    "packageName": "org.telegram.messenger",
+    "link": "https://telegram.org/dl/android/apk",
+    "description": "Telegram is a fast, secure, and cloud-based messaging app.\n\nFeatures:\n- Fast messaging with global cloud servers\n- Unlimited cloud storage for chats and media\n- Group chats up to 200,000 members\n- Channels for broadcasting\n- End-to-end encrypted secret chats\n- Cross-device sync\n- File sharing up to 2GB per file",
+    "icon": "https://telegram.org/img/t_logo.png",
+    "isVerified": true,
+    "isFeatured": true,
+    "isSmall": false,
+    "hasPreview": false,
+    "previewLink": "",
+    "version": "Latest",
+    "minAndroid": 4.4,
+    "targetAndroid": 15
   }
 ]
